@@ -5,11 +5,13 @@ This is a collection of folders containing notes about each lesson about Salesfo
 <b>Course Sections
 
 | Subject |
-| - | - |
-| Configuration & Setup |<b>
-| Object Manager & Lightning App Builder |<b>
-| Workflow/Process Automation |<b>
-| Salesforce Security |<b>
-| Analytics Management |<b>
-| Service & Support Applications |<b>
+| - |
+| Configuration & Setup |
+| Object Manager & Lightning App Builder |
+| Workflow/Process Automation |
+| Salesforce Security |
+| Analytics Management |
+| Service & Support Applications |
 | Productivity & Collaboration |
+</b>
+
